@@ -125,7 +125,7 @@ title: Styleguide
 
 <h3>Vimeo Responsive Embed</h3>
 
-<iframe src="https://player.vimeo.com/video/212114694?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="http://www.iqiyi.com/w_19s7ut1xdl.html" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 <hr />
 
